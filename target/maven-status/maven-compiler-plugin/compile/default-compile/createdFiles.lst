@@ -1,3 +1,8 @@
+com/uhyo/common/dto/cond/CondJson.class
+com/uhyo/common/dto/ui/JobStartRequest.class
+com/uhyo/common/dto/cond/JobResponse.class
 com/uhyo/common/dto/JobResultDto.class
 com/uhyo/common/dto/TaskDto.class
 com/uhyo/common/dto/JobRequestDto.class
+com/uhyo/common/dto/cond/CustomerDto.class
+com/uhyo/common/dto/cond/ItemCondDto.class
