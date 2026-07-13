@@ -1,8 +1,11 @@
+/home/ssuzuki/uhyo_project/backend_common/src/main/java/com/uhyo/common/tetris/ScoreDto.java
 /home/ssuzuki/uhyo_project/backend_common/src/main/java/com/uhyo/common/dto/cond/CondJson.java
 /home/ssuzuki/uhyo_project/backend_common/src/main/java/com/uhyo/common/dto/ui/JobStartRequest.java
 /home/ssuzuki/uhyo_project/backend_common/src/main/java/com/uhyo/common/dto/cond/ItemCondDto.java
 /home/ssuzuki/uhyo_project/backend_common/src/main/java/com/uhyo/common/dto/cond/JobResponse.java
 /home/ssuzuki/uhyo_project/backend_common/src/main/java/com/uhyo/common/dto/TaskDto.java
 /home/ssuzuki/uhyo_project/backend_common/src/main/java/com/uhyo/common/dto/JobRequestDto.java
+/home/ssuzuki/uhyo_project/backend_common/src/main/java/com/uhyo/common/tetris/HighScoreDto.java
+/home/ssuzuki/uhyo_project/backend_common/src/main/java/com/uhyo/common/tetris/GameStartDto.java
 /home/ssuzuki/uhyo_project/backend_common/src/main/java/com/uhyo/common/dto/JobResultDto.java
 /home/ssuzuki/uhyo_project/backend_common/src/main/java/com/uhyo/common/dto/cond/CustomerDto.java
